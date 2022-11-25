@@ -11,6 +11,6 @@ export default async function handler(req,res){
          return res.json({status:'Usuário não encontrado, favor, registrar-se'})
         }
     else{
-        res.redirect('/')
+        res.redirect('https://tiringastore.vercel.app/')
     }
 }
