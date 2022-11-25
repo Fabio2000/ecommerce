@@ -34,7 +34,7 @@ import Modal from 'react-bootstrap/Modal';
 
 import fem from '../public/imagens/feminina/fem.png'
 
-import femin2 from '../public/imagens/fTiringa.png'
+import femin2 from '../public/imagens/feminina/escuro.png'
 
 
 export default function () {

@@ -21,11 +21,11 @@ import camisaTwo from '../public/imagens/masculina/camisaTwo.jpg'
 import camisaTree from '../public/imagens/masculina/camisaTree.png'
 
 import socialUm from '../public/imagens/masculina/socialUm.jpeg'
-import socialTwo from '../public/imagens/masculina/socialTwo.png'
-import socialTree from '../public/imagens/masculina/socialTree.png'
+import socialTwo from '../public/imagens/masculina/socialUm.jpeg'
+import socialTree from '../public/imagens/masculina/socialUm.jpeg'
 
 import ternoTwo from '../public/imagens/masculina/ternoTwo.PNG'
-import ternoTree from '../public/imagens/masculina/ternoTree.png'
+import ternoTree from '../public/imagens/masculina/ternoUm.jpg'
 
 
 

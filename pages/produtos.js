@@ -4,11 +4,11 @@ import camisaTwo from '../public/imagens/masculina/camisaTwo.jpg'
 import camisaTree from '../public/imagens/masculina/camisaTree.png'
 
 import socialUm from '../public/imagens/masculina/socialUm.jpeg'
-import socialTwo from '../public/imagens/masculina/socialTwo.png'
-import socialTree from '../public/imagens/masculina/socialTree.png'
+import socialTwo from '../public/imagens/masculina/socialUm.jpeg'
+import socialTree from '../public/imagens/masculina/socialUm.jpeg'
 
 import ternoTwo from '../public/imagens/masculina/ternoTwo.PNG'
-import ternoTree from '../public/imagens/masculina/ternoTree.png'
+import ternoTree from '../public/imagens/masculina/ternoUm.jpg'
 
 //Fotos Femininas
 import femOne from '../public/imagens/feminina/amarelo.png'
@@ -22,7 +22,7 @@ import shortsTree from '../public/imagens/feminina/jeans.png'
 import jeansOne from '../public/imagens/feminina/unisexUm.jpg'
 import jeansTwo from '../public/imagens/feminina/unisexDois.png'
 import jeansTree from '../public/imagens/feminina/unisexTres.png'
-import femin2 from '../public/imagens/fTiringa.png'
+import femin2 from '../public/imagens/feminina/escuro.png'
 
 
 //Importes
