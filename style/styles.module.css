@@ -1,0 +1,129 @@
+.principal {
+  background-color: rgba(255, 145, 0, 0.433);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
+
+.CardOne {
+  background-color: rgba(255, 145, 0, 0.171);
+  align-items: center;
+  border-radius: 18px;
+  text-align: center;
+}
+
+.CardTwo {
+  align-items: center;
+  border-radius: 18px;
+  text-align: center;
+}
+
+.row {
+  --bs-gutter-x: 1.5rem;
+  --bs-gutter-y: 0;
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: calc(-1 * var(--bs-gutter-y));
+  margin-right: calc(-.5 * var(--bs-gutter-x));
+  margin-left: calc(-.5 * var(--bs-gutter-x));
+}
+
+.tiringalogin {
+  position: relative;
+  border: 50%;
+  height: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.botao {
+  display: flex;
+  justify-content: center;
+}
+.corousel {
+  margin-top: 15px;
+  
+}
+
+.informa {
+  display: flex;
+  padding-left: 30px;
+}
+
+.user {
+  margin-left: 500px;
+
+
+}
+
+.procura {
+  margin-left: 20px;
+}
+
+.btnUm {
+  margin-bottom: 30px;
+}
+
+.footer{
+  text-align: center;
+  padding-top: 100px;
+}
+
+.modalCel{
+  padding: 50px;
+  border-style:outset;
+  margin-bottom: 50px;
+}
+
+.teste {
+  background-color: rgba(0, 0, 0, 0.248);
+  background-image: linear-gradient(45deg, orange, yellow, orangered);
+  background-size: 500% 100%;
+  animation: degrade-animado 5s infinite alternate;
+}
+
+.cards {
+  text-align: center;
+  text-align: center;
+  justify-content: center;
+}
+
+.Card{  
+  margin: 0 10%;
+  border: 0;
+  background-color: transparent;
+  margin-top: 220px;
+}
+
+.body {
+  height: 200vh;
+  justify-content: center;  background-image: linear-gradient(45deg, orange, yellow, blue);
+  background-image: linear-gradient(45deg, orange, yellow, orangered);
+  background-size: 500% 100%;
+  animation: degrade-animado 5s infinite alternate;
+}
+
+@keyframes degrade-animado {
+  0% {
+    background-position-x: 0%;
+  }
+
+  100% {
+    background-position: 100%;
+  }
+}
+
+.group:before,
+.group:after {
+  content: "";
+  display: table;
+}
+
+.group:after {
+  clear: both;
+}
+
+.group {
+  zoom: 1;
+}
