@@ -10,7 +10,7 @@ export default async (req, res) => {
            .collection("emails")
            .find({})
            .sort({ metacritic: -1 })
-           .limit(10)
+           .limit(60)
            .toArray();
 
        res.json(emails);
