@@ -6,7 +6,7 @@ connect()
 export default async function handler(req,res){
     try {
         const user = await email.create(req.body);
-        res.redirect('https://tiringastore.vercel.app/login')
+        res.redirect('/login')
         if(!user){
             return res.json({"code":'Usuário não criado'})
         }
